@@ -16,9 +16,6 @@ class ProductsData extends Component {
         <div className="image">
           <img alt="img" src={this.props.img1} />
           <img alt="img" src={this.props.img2} />
-          {this.props.learnMoreLink && (
-            <a href={this.props.learnMoreLink}>Pre-Order Now!</a>
-          )}
         </div>
       </div>
     );
