@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2400e8d2.css",
+    "main.js": "/static/js/main.195b59c0.js",
+    "static/media/hero.png": "/static/media/hero.9314b33a0008fb0dd9c4.png",
+    "static/media/berries.jpeg": "/static/media/berries.d06b33e9532f4f3f0c94.jpeg",
+    "static/media/mango.jpeg": "/static/media/mango.ebd6cb2069f8e0d7fd23.jpeg",
+    "static/media/cherry.jpeg": "/static/media/cherry.67ac7766bf7970ac4aeb.jpeg",
+    "static/media/pomegranate.jpeg": "/static/media/pomegranate.3092125c7140f136725c.jpeg",
+    "static/media/durian.jpg": "/static/media/durian.e82546c7480235b7891a.jpg",
+    "static/media/Yulia.jpg": "/static/media/Yulia.dc7439149a388dcef3ea.jpg",
+    "static/media/John.jpg": "/static/media/John.57e036fa5aba03903d21.jpg",
+    "static/media/Olivia.jpg": "/static/media/Olivia.161919af9509e29f9bb0.jpg",
+    "static/media/avocado.jpg": "/static/media/avocado.7710effbfbdb0bb298ac.jpg",
+    "static/media/Jane.jpg": "/static/media/Jane.ed5afed501ab68aef3a5.jpg",
+    "static/media/pear.jpg": "/static/media/pear.89ac39121ccfbd999cf7.jpg",
+    "static/media/peach.jpg": "/static/media/peach.5a1e6857c14557f07999.jpg",
+    "static/media/Alex.jpg": "/static/media/Alex.e3548383e7f7bf5bce59.jpg",
+    "static/media/apple.jpg": "/static/media/apple.682d06722f67c3f51f8b.jpg",
+    "static/media/mango.jpg": "/static/media/mango.48033bdc401329f31672.jpg",
+    "static/media/Chris.jpg": "/static/media/Chris.878c100df51c21125bb3.jpg",
+    "static/media/apricot.jpg": "/static/media/apricot.df7ed643c50b88c5b501.jpg",
+    "static/media/guava.jpg": "/static/media/guava.5fb1dfc12361bd707787.jpg",
+    "static/media/kiwi.jpg": "/static/media/kiwi.337148555c6b85e14859.jpg",
+    "static/media/grape.jpg": "/static/media/grape.d459b1ba202803e6a7fa.jpg",
+    "static/media/lemon.jpg": "/static/media/lemon.f9e54d220b6ce41933dd.jpg",
+    "static/media/blackcurrant.jpg": "/static/media/blackcurrant.fe46bd423c585df6dbfb.jpg",
+    "static/media/melon.jpg": "/static/media/melon.42fe3bab71ac6cb1397e.jpg",
+    "static/media/banana.jpg": "/static/media/banana.469021ece40a4350e047.jpg",
+    "static/media/papaya.jpg": "/static/media/papaya.f38a61b7e473dcc71554.jpg",
+    "index.html": "/index.html",
+    "main.2400e8d2.css.map": "/static/css/main.2400e8d2.css.map",
+    "main.195b59c0.js.map": "/static/js/main.195b59c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2400e8d2.css",
+    "static/js/main.195b59c0.js"
+  ]
+}
